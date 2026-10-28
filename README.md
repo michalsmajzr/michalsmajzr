@@ -11,7 +11,7 @@ During my studies, I have taken courses in C, Python, C#, SQL, web development, 
 ### TypeScript, Next.js, React
 
 - **[Virtual Bulletin Board to Support Teaching in the 1st Grade of Primary Schools](https://github.com/michalsmajzr/virtualni-nastenka)** – My bachelor's thesis, developed using Next.js, TypeScript, React, Tailwind CSS, MySQL and a REST API architecture.
-- **Chess analysis** ([demo chess-analysis.michalsmajzr.cz](https://chess-analysis.michalsmajzr.cz/)) – My personal project for analyzing and broadcasting chess games, developed using Next.js, TypeScript, React, Tailwind CSS and WebSockets.
+- **Chess analysis** ([chess-analysis.michalsmajzr.cz](https://chess-analysis.michalsmajzr.cz/)) – My personal project for analyzing and broadcasting chess games, developed using Next.js, TypeScript, React, Tailwind CSS and WebSockets.
 
 ### ASP.NET
 
@@ -21,4 +21,4 @@ During my studies, I have taken courses in C, Python, C#, SQL, web development, 
 ### Other Projects
 
 - **Znojemská rotunda** ([znojemska-rotunda-open.cz](https://znojemska-rotunda-open.cz/public/cs)) – Worked on the website's frontend using HTML and CSS with the BEM methodology.
-- **Germed** ([demo germed.michalsmajzr.cz](https://germed.michalsmajzr.cz/)) – Worked on a new website for a medical practice in Pardubice, using HTML and CSS with the BEM methodology.
+- **Germed** ([germed.michalsmajzr.cz](https://germed.michalsmajzr.cz/)) – Worked on a new website for a medical practice in Pardubice, using HTML and CSS with the BEM methodology.

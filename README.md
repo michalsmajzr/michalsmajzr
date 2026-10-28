@@ -20,5 +20,5 @@ During my studies, I have taken courses in C, Python, C#, SQL, web development, 
 
 ### Other Projects
 
-- **[Znojemská rotunda](https://znojemska-rotunda-open.cz/public/cs)** – Worked on the website's frontend using HTML and CSS with the BEM methodology.
-- **Germed** – Worked on a new website for a medical practice in Pardubice, using HTML and CSS with the BEM methodology.
+- **Znojemská rotunda([znojemska-rotunda-open.cz](https://znojemska-rotunda-open.cz/public/cs))** – Worked on the website's frontend using HTML and CSS with the BEM methodology.
+- **Germed([demo](https://germed.michalsmajzr.cz/))** – Worked on a new website for a medical practice in Pardubice, using HTML and CSS with the BEM methodology.

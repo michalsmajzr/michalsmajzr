@@ -11,7 +11,7 @@ During my studies, I have taken courses in C, Python, C#, SQL, web development, 
 ### TypeScript, Next.js, React
 
 - **[Virtual Bulletin Board to Support Teaching in the 1st Grade of Primary Schools](https://github.com/michalsmajzr/virtualni-nastenka)** – My bachelor's thesis, developed using Next.js, TypeScript, React, Tailwind CSS, MySQL and a REST API architecture.
-- **Chess Commentating** ([demo](http://158.194.80.82:3001/)) – My personal project for analyzing and broadcasting chess games, developed using Next.js, TypeScript, React, Tailwind CSS and WebSockets.
+- **Chess analysis** ([demo](http://158.194.80.82:3001/)) – My personal project for analyzing and broadcasting chess games, developed using Next.js, TypeScript, React, Tailwind CSS and WebSockets.
 
 ### ASP.NET
 

@@ -3,6 +3,7 @@
 ## About Me
 
 I am a Master's student at the [Department of Computer Science at Palacký University Olomouc](https://www.inf.upol.cz/), where I study Applied Computer Science – Software Development. I mainly focus on web application and website development. I developed my bachelor's thesis using Next.js, and I have recently started working on my master's thesis using ASP.NET. 
+
 During my studies, I have taken courses in C, Python, C#, SQL, web development, Linux, Windows administration and Linux server administration. I enjoy learning new technologies, and recently I have also been exploring how to use LLMs development tools, such as OpenAI Codex and GitHub Copilot, to improve my productivity and work more efficiently. I have also completed courses in DNS administration and Docker at CZ.NIC Academy.
 
 ## Projects

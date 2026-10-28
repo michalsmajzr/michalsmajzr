@@ -1,4 +1,4 @@
-# Michal Šmajzr – Software / Web Developer
+# Michal Šmajzr – Software / Web development
 
 ## About Me
 
